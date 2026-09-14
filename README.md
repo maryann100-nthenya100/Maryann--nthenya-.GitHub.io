@@ -125,7 +125,7 @@
 <section>
   <h2>Contact</h2>
 
-  <p><strong>Email:</strong> nthenyamaryann03@gmail.com</p>
+  <p><strong>Email:</strong> jumamaryann9@gmail.com</p>
   <p><strong>Phone:</strong> 0792417846</p>
   <p><strong>Location:</strong> Nairobi, Kenya</p>
 </section>
